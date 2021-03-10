@@ -34,7 +34,7 @@ def check_root_full():
 def check_no_network():
     """Returns True if it fails to resolve Google's URL, False otherwise"""
     try: 
-        socket.gethostbyname("wwww.google.com")
+        socket.gethostbyname("www.google.com")
         return False
     except:
         return True
