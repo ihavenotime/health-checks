@@ -1,5 +1,7 @@
 # health-checks
 
+google python course
+
 Scripts that check the health of my computer
 
 Currently the main script is health_checks.py
